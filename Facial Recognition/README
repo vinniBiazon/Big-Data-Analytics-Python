@@ -1,0 +1,5 @@
+In this study I show how to use SVM and PCA for facial recognition. Faces are usually in an upright position and therefore can be described by a small set of 2D features.
+
+An important note is that these faces have already been located and resized to a common size, which is why some pre-processing steps have been skipped.
+
+The dataset used in this project is the Labeled Faces in the Wild Home, a set of face images prepared for Computer Vision tasks. It is available both on Keras and at http://vis-www.cs.umass.edu/lfw/.
