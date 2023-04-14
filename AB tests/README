@@ -1,0 +1,11 @@
+For this project we are going to understand the results of an A/B Test run by an e-commerce
+website. Our goal is to help the company understand whether user evaluations (reviews) make a
+difference or not for the user to make a purchase on the portal.
+The data are fictitious, but represent valid values for this type of work.
+
+In general, we perform these 5 steps to analyze an A/B Test:
+1. We set up the experiment.
+2. We performed the hypothesis test and recorded the success rate for each group.
+3. We create the Plot of the distribution of the difference between the two samples.
+4. We calculate the statistical power.
+5. We assess how sample sizes affect A/B Testing.
