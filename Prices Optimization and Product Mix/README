@@ -1,0 +1,21 @@
+Smart Moon Tech assembles and tests two smartphone models, Moon1 and Moon2. For the next
+month, the company wants to decide how many units of each model it will assemble and then test.
+
+No smartphone is in stock since the previous month and as these models will be replaced after this
+month, the company doesn’t want to keep any stock for the following month.
+
+They believe that the most they can sell this month is 600 Moon1 units and 1200 Moon2 units.
+
+Each Moon1 model is sold for 300 and each Moon2 model for 450. The component cost for a Moon1
+is 150 and for a Moon2 it is 225.
+
+Labor is required for assembly and testing. There are a maximum of 10,000 hours of assembly and
+3,000 hours of testing available. Each working hour for assembly costs 11 and each working hour
+for testing costs 15. Each Moon1 requires five hours for assembly and one hour for testing. Each
+Moon2 requires six hours for assembly and two hours for testing.
+
+Smart Moon Tech wants to know how many units of each model it should produce (build and test)
+to maximize its net profit, but it can’t use more man hours than it has available and it doesn’t
+want to produce more than it can sell.
+
+We will optimize prices and mix of Smart Moon Tech products.
