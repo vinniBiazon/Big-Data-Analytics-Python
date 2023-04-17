@@ -1,0 +1,4 @@
+Based on customer energy consumption data, we are going to group consumers by similarity in
+order to understand customer behavior and its relationship with energy consumption.
+
+Dataset: https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
